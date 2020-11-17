@@ -186,7 +186,7 @@ static InitFunction initFunction([]()
 			}
 		}
 	});
-
+//nice reverse-engineered 3
 	nui::OnInvokeNative.Connect([](const wchar_t* type, const wchar_t* arg)	
 	{	
 		if (wcscmp(type, L"enterGameplay") == 0)	
