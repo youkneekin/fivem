@@ -13,5 +13,8 @@ To play FiveM, simply download the launcher binaries from the [website](https://
 
 To develop FiveM, please follow the documentation in [docs/](https://github.com/citizenfx/fivem/tree/master/docs) in the repository.
 
+## Disclaimer 
+The RE3-enabled branch has been created by Youknee Kin, with no guarantee that RE3 will be playable on production.
+
 ## License
 FiveM is licensed under a dual license, details of which are in the [code/LICENSE](https://github.com/citizenfx/fivem/blob/master/code/LICENSE) file in the repository.
