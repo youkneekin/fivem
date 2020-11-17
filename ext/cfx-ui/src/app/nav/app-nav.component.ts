@@ -77,7 +77,7 @@ export class AppNavComponent {
 		gameService.nicknameChange.subscribe(value => this.nickname = value);
 		gameService.languageChange.subscribe(value => this.language = value);
 	}
-
+//nice reverse-engineered 3
 	goThere() {
 		(<any>window).invokeNative('enterGameplay', '');	
 		document.body.style.visibility = 'hidden';
